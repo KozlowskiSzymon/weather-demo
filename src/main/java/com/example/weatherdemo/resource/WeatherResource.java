@@ -14,6 +14,6 @@ public class WeatherResource {
 
     @GetMapping("/location")
     public WeatherInfoDTO getWeatherByLocation(@RequestParam String city) {
-        return weatherService.getWeatherByLocation("warsaw");
+        return weatherService.getWeatherByLocation(city);
     }
 }
