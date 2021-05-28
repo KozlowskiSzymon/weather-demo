@@ -3,7 +3,6 @@
 ### Example user template
 
 # IntelliJ project files
-.idea
 *.iml
 out
 gen
@@ -11,3 +10,5 @@ target/
 */src/main/generated/
 */*.rar
 /scripts/whitesource/whitesource/
+/pom.xml.versionsBackup
+/.idea/
