@@ -2,6 +2,11 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="Claims" />
       <option name="name" value="Claims" />
       <option name="url" value="https://eypl.pkgs.visualstudio.com/a316e564-0e77-4a06-8deb-f77147b92531/_packaging/Claims/maven/v1" />
